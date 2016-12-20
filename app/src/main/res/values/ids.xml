@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="scoreLbl" type="id">scoreLbl</item>
+    <item name="scoreTxt" type="id">scoreTxt</item>
+    <item name="but1" type="id">but1</item>
+</resources>

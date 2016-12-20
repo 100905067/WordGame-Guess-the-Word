@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordGame-Guess The Word!!!</string>
+    <string name="guess">Guess The Word!!!</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next Word</string>
+    <string name="score">Score</string>
+    <string name="end">End Game!!!</string>
+    <string name="hint">Hint</string>
+    <string name="enter">Enter The Word Here!!</string>
+</resources>
